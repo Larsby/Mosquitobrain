@@ -1,0 +1,36 @@
+{
+  "plugin_name": "Mosquitobrain",
+  "version": "v0.0.0",
+  "current_phase": "ideation",
+  "ui_framework": "pending",
+  "complexity_score": 0,
+  "created_at": "2026-04-03T07:48:51Z",
+  "last_modified": "2026-04-03T07:48:51Z",
+  "phase_history": [
+    {
+      "phase": "ideation",
+      "completed_at": "2026-04-03T07:48:51Z",
+      "framework_selected": "pending"
+    }
+  ],
+  "validation": {
+    "creative_brief_exists": true,
+    "parameter_spec_exists": true,
+    "architecture_defined": false,
+    "ui_framework_selected": false,
+    "design_complete": false,
+    "code_complete": false,
+    "tests_passed": false,
+    "ship_ready": false
+  },
+  "framework_selection": {
+    "decision": "pending",
+    "rationale": "",
+    "implementation_strategy": "pending"
+  },
+  "error_recovery": {
+    "last_backup": null,
+    "rollback_available": false,
+    "error_log": []
+  }
+}
