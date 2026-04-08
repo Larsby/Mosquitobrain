@@ -1,5 +1,8 @@
 # Mosquitobrain 
 
+![the ui](https://github.com/Larsby/Mosquitobrain/blob/main/Design/Screenshot%202026-04-06%20at%2007.57.50.png "the ui")
+
+
 Many years ago I made a VST plugin that used a neural network to try and replicate effects. Sadly the sourcecode was lost in a burglary and I have since not felt the need or the lust to recreate it. Not until vibe coding and VST's became a thing. I downloaded APC the Audio Plugin Coder ( https://github.com/Noizefield/audio-plugin-coder/ ) and made a stab at recreating the plugin. It works but it is mostly filter-like effects, sort of like a combination of eq's. However that might be useful sometimes
 
 
